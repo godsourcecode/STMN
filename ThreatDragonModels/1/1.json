@@ -5,8 +5,18 @@
     "description": "1"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "111"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "222",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "1"
   }
 }
